@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/new_match_id"
+        android:title="New Match"
+        android:icon="@drawable/new_matches"
+        />
+    <item
+        android:id="@+id/teams_id"
+        android:title="Teams"
+        android:icon="@drawable/teams"
+        />
+    <item
+        android:id="@+id/history"
+        android:title="History"
+        android:icon="@drawable/history"
+        />
+
+</menu>
